@@ -158,6 +158,9 @@ const props = defineProps({
   subhead: { type: String },
   copy: { type: String },
   button: { type: String },
-  link: { type: String, default: 'https://www.rotowire.com/subscribe/' },
+  link: {
+    type: String,
+    default: 'https://www.rotowire.com/subscribe/create-account.php',
+  },
 });
 </script>

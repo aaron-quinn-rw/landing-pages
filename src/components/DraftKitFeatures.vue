@@ -95,7 +95,7 @@
       </dl>
 
       <a
-        href="https://www.rotowire.com/subscribe/"
+        href="https://www.rotowire.com/subscribe/create-account.php"
         class="
           mt-6
           sm:mt-8

@@ -1,11 +1,34 @@
 <template>
   <div class="min-h-screen flex items-center justify-center p-12 md:p-6">
     <div class="max-w-[480px] md:mt-[-50px]">
-      <img class="mb-4 w-[200px] md:w-[320px]" src="/rotowire-logo-white.svg" alt="RotoWire" />
-      <h1 class="font-extrabold text-3xl md:text-4xl mb-2 md:mb-3 tracking-tight text-rw-highlight">
+      <img
+        class="mb-4 w-[200px] md:w-[320px]"
+        src="/rotowire-logo-white.svg"
+        alt="RotoWire"
+      />
+      <h1
+        class="
+          font-extrabold
+          text-3xl
+          md:text-4xl
+          mb-2
+          md:mb-3
+          tracking-tight
+          text-rw-highlight
+        "
+      >
         Win Your Leagues
       </h1>
-      <p class="text-base md:text-xl font-light mb-5 max-w-[300px] md:max-w-[400px]">
+      <p
+        class="
+          text-base
+          md:text-xl
+          font-light
+          mb-5
+          max-w-[300px]
+          md:max-w-[400px]
+        "
+      >
         We have news, advice and tools you need to win your fantasy leagues.
       </p>
 
@@ -29,7 +52,7 @@
           text-rw-light
           md:px-10
         "
-        href="https://www.rotowire.com/subscribe/"
+        href="https://www.rotowire.com/subscribe/create-account.php"
         >See What You're Missing</a
       >
     </div>
