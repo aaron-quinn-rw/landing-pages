@@ -1,27 +1,43 @@
 <template>
   <MainFeature
-    :heading="heading"
-    :subhead="subhead"
-    :copy="copy"
-    :button="button"
-    :image="image"
+    :heading="featureHeading"
+    :subhead="featureSubhead"
+    :copy="featureCopy"
+    :button="featureButton"
+    :image="featureImage"
+    :link="featureLink"
   />
-  <DraftKitFeatures />
+  <DraftKit
+    :headline="draftKitHeadline"
+    :subhead="draftKitSubhead"
+    :quote="draftKitQuote"
+    :features="draftKitFeatures"
+    :link="draftKitLink"
+    :button="draftKitButton"
+  />
   <AboutBlock />
 </template>
 
 <script setup>
-import { defineProps } from 'vue';
 import MainFeature from '@/components/MainFeature.vue';
 import AboutBlock from '@/components/AboutBlock.vue';
-import DraftKitFeatures from '@/components/DraftKitFeatures.vue';
+import DraftKit from '@/components/DraftKit.vue';
 
-const props = defineProps({
-  image: { type: String },
-  heading: { type: String },
-  subhead: { type: String },
-  copy: { type: String },
-  button: { type: String },
-  link: { type: String },
+defineProps({
+  // Main Feature
+  featureImage: { type: String, required: true },
+  featureHeading: { type: String, required: true },
+  featureSubhead: { type: String, required: true },
+  featureCopy: { type: String, required: true },
+  featureButton: { type: String, required: true },
+  featureLink: { type: String, required: true },
+
+  // Draft Kit
+  draftKitFeatures: { type: Array, required: true },
+  draftKitButton: { type: String, required: true },
+  draftKitHeadline: { type: String, required: true },
+  draftKitSubhead: { type: String, required: true },
+  draftKitQuote: { type: String, required: true },
+  draftKitLink: { type: String, required: true },
 });
 </script>

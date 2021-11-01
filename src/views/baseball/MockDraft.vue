@@ -15,15 +15,18 @@
   />
 </template>
 
+<script></script>
+
 <script setup>
 import LandingPage from '@/components/LandingPage.vue';
-import customizeFootballPage from '@/helpers/football/customize-page';
+import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
-const { draftKit, feature } = customizeFootballPage({
+const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `${new Date().getFullYear()} Fantasy Football Tips & Tricks`,
-    subhead: 'Outsmart the rest of your league with our draft tools and advice',
-    copy: "We have all the best fantasy football tools collected together in one place. It's the easiest way to become a champion.",
+    heading: `${new Date().getFullYear()} Fantasy Baseball Mock Draft Simulator`,
+    subhead:
+      'Test any draft strategy. Draft from every slot. Customize it all.',
+    copy: "Use our mock draft simulator to prepare for your draft. It's the most entertaining way to battle test your draft strategy.",
     button: 'Have Your Best Draft Ever',
   },
 });
