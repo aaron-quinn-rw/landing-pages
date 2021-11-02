@@ -17,15 +17,14 @@
 
 <script setup>
 import LandingPage from '@/components/LandingPage.vue';
-import customizeBaseballPage from '@/helpers/baseball/customize-page';
+import customizeFootballPage from '@/helpers/football/customize-page';
 
-const { draftKit, feature } = customizeBaseballPage({
+const { draftKit, feature } = customizeFootballPage({
   feature: {
-    heading: `${new Date().getFullYear()} Fantasy Baseball News & Rankings`,
-    subhead:
-      'Get the news that matters for your league without spending time hunting it down yourself.',
-    copy: 'Get a real advantage over the rest of your league with our 24/7 news updates. Plus, rankings and advice customized for your league.',
-    button: 'Win Your League This Year',
+    heading: `${new Date().getFullYear()} Fantasy Football Draft Software`,
+    subhead: 'Track your entire draft',
+    copy: 'Research players, dive into stats, check depth charts and more – everything is right at your fingertips.',
+    button: 'Get Our Draft Software',
   },
 });
 </script>

@@ -29,6 +29,11 @@ export default [
     component: () => import('@/views/football/DraftKit.vue'),
   },
   {
+    path: '/football/draft-software',
+    name: 'Fantasy Football Draft Software',
+    component: () => import('@/views/football/DraftSoftware.vue'),
+  },
+  {
     path: '/football/draft-strategy',
     name: 'Fantasy Football Draft Strategy',
     component: () => import('@/views/football/DraftStrategy.vue'),

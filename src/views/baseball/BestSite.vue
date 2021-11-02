@@ -15,8 +15,6 @@
   />
 </template>
 
-<script></script>
-
 <script setup>
 import LandingPage from '@/components/LandingPage.vue';
 import customizeBaseballPage from '@/helpers/baseball/customize-page';

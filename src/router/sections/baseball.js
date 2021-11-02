@@ -24,6 +24,11 @@ export default [
     component: () => import('@/views/baseball/DraftKit.vue'),
   },
   {
+    path: '/baseball/draft-software',
+    name: 'Fantasy Baseball Draft Software',
+    component: () => import('@/views/baseball/DraftSoftware.vue'),
+  },
+  {
     path: '/baseball/mock-draft',
     name: 'Fantasy Baseball Mock Draft Simulator',
     component: () => import('@/views/baseball/MockDraft.vue'),
