@@ -4,6 +4,11 @@ export default [
     redirect: { name: 'Fantasy Baseball Draft Kit' },
   },
   {
+    path: '/baseball/deal',
+    name: 'Fantasy Baseball Draft Kit: 10% Off',
+    component: () => import('@/views/baseball/Discount.vue'),
+  },
+  {
     path: '/baseball/auction-values',
     name: 'Fantasy Baseball Auction Values',
     component: () => import('@/views/baseball/AuctionValues.vue'),

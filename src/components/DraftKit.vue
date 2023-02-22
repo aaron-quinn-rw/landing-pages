@@ -22,7 +22,6 @@
               v-for="starNum in 5"
               :key="starNum"
               class="h-4 w-4 mb-2 sm:mb-0 sm:h-6 sm:w-6 text-rw-yellow"
-              aria-hidden="true"
             />
           </div>
           <div
@@ -66,10 +65,7 @@
       >
         <div v-for="feature in features" :key="feature.name" class="relative">
           <dt>
-            <LightningBoltIcon
-              class="absolute h-6 w-6 text-rw-yellow"
-              aria-hidden="true"
-            />
+            <BoltIcon class="absolute h-6 w-6 text-rw-yellow" />
             <p
               class="ml-9 text-lg sm:text-xl leading-6 font-semibold text-white"
             >
@@ -124,7 +120,7 @@
 </template>
 
 <script setup>
-import { LightningBoltIcon, StarIcon } from '@heroicons/vue/solid';
+import { BoltIcon, StarIcon } from '@heroicons/vue/24/solid';
 
 const props = defineProps({
   headline: { type: String, required: true },
