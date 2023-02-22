@@ -203,7 +203,7 @@
                 >
               </p>
               <a
-                href="https://www.rotowire.com/subscribe/"
+                href="https://www.rotowire.com/subscribe/redeem.php?code=ANNUAL10"
                 class="
                   go-to-payment-screen
                   mt-3
@@ -286,7 +286,7 @@
                 >
               </p>
               <a
-                href="https://www.rotowire.com/subscribe/"
+                href="https://www.rotowire.com/subscribe/redeem.php?code=ANNUAL10"
                 class="
                   go-to-payment-screen
                   mt-3
@@ -312,7 +312,7 @@
         <div class="text-center mt-4 lg:mr-[-10px] relative">
           <a
             class="underline text-xl font-semibold antialiased"
-            href="https://www.rotowire.com/subscribe/"
+            href="https://www.rotowire.com/subscribe/redeem.php?code=ANNUAL10"
             >View All Packages</a
           >
         </div>

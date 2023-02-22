@@ -25,9 +25,11 @@ const { draftKit, feature } = customizeBaseballPage({
     subhead: 'Everything You Need To Win Your League',
     copy: "We have all the best fantasy baseball tools collected together in one place. It's the easiest way to become a champion.",
     button: 'Get Our Draft Kit Now',
+    link: 'https://www.rotowire.com/subscribe/redeem.php?code=ANNUAL10',
   },
   draftKit: {
     headline: 'Why Choose RotoWire?',
+    link: 'https://www.rotowire.com/subscribe/redeem.php?code=ANNUAL10',
   },
 });
 </script>
