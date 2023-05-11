@@ -24,8 +24,8 @@
       heading: `${new Date().getFullYear()} Fantasy Baseball DFS Tool Kit`,
       subhead: 'The Assistance You Need To Win More DFS Contests',
       copy: "We have all the best daily fantasy baseball tools collected togetherin one place, including our enhanced lineup optimizer.",
-      button: 'Start Free 2-Day Trial',
-      link: "https://www.rotowire.com/users/free-trial.php"
+      button: 'Get our DFS Tool Kit',
+      link: "https://www.rotowire.com/subscribe/redeem.php?code=DFS20"
     },
     draftKit: {
         features: [
@@ -112,8 +112,8 @@
         ],
         headline: `Why Choose RotoWire?`,
         subhead: `Resources that give you a winning edge.`,
-        button: `Explore Our DFS Tools FREE`,
-        link: "https://www.rotowire.com/users/free-trial.php",
+        button: `Get Our Fantasy Baseball DFS Tool Kit`,
+        link: "https://www.rotowire.com/subscribe/redeem.php?code=DFS20",
         quote: "Great tools. I've seen instant results and it's also user friendly. Much better in my opinion than the other sites!!!",
     }
   });
