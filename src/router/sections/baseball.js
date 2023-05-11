@@ -9,6 +9,11 @@ export default [
     component: () => import('@/views/baseball/Discount.vue'),
   },
   {
+    path: '/baseball/dfs-deal',
+    name: 'Fantasy Baseball DFS Tool Kit: 20% Off',
+    component: () => import('@/views/baseball/DFSDeal.vue'),
+  },
+  {
     path: '/baseball/auction-values',
     name: 'Fantasy Baseball Auction Values',
     component: () => import('@/views/baseball/AuctionValues.vue'),
@@ -27,6 +32,11 @@ export default [
     path: '/baseball/draft-kit',
     name: 'Fantasy Baseball Draft Kit',
     component: () => import('@/views/baseball/DraftKit.vue'),
+  },
+  {
+    path: '/baseball/dfs',
+    name: 'Fantasy Baseball DFS Tool Kit',
+    component: () => import('@/views/baseball/DFS.vue'),
   },
   {
     path: '/baseball/draft-software',
