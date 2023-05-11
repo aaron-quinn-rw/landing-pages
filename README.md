@@ -31,5 +31,3 @@ The landing page content is controlled by two types of files:
 2. Create a new file in `/src/router/sections/`. Just follow the same pattern as the existing sports.
 
 3. Create a new folder in `/src/views/`. Follow the pattern set by the existing sports here as well.
-
-Parr was here!
