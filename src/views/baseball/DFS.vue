@@ -23,7 +23,7 @@
     feature: {
       heading: `${new Date().getFullYear()} Fantasy Baseball DFS Tool Kit`,
       subhead: 'The Assistance You Need To Win More DFS Contests',
-      copy: "We have all the best daily fantasy baseball tools collected togetherin one place, including our enhanced lineup optimizer.",
+      copy: "We have all the best daily fantasy baseball tools collected together in one place, including our enhanced lineup optimizer.",
       button: 'Start Free 2-Day Trial',
       link: "https://www.rotowire.com/users/free-trial.php"
     },
