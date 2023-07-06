@@ -24,6 +24,11 @@ export default [
     component: () => import('@/views/football/CheatSheetPPR.vue'),
   },
   {
+    path: '/football/deal',
+    name: 'Fantasy Football Draft Kit: 20% Off',
+    component: () => import('@/views/football/Discount.vue'),
+  },
+  {
     path: '/football/draft-kit',
     name: 'Fantasy Football Draft Kit',
     component: () => import('@/views/football/DraftKit.vue'),
