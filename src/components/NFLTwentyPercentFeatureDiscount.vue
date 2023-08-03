@@ -156,11 +156,11 @@
             >
               <div class="px-4 pt-6 pb-4 md:px-6">
                 <h2 class="text-xl font-normal text-gray-800 xl:text-2xl">
-                  Football + DFS
+                  Football
                 </h2>
   
                 <p class="subscription-plan__desc mt-4 text-sm text-gray-500">
-                  All fantasy football tools including our NFL DFS optimizer.
+                  All fantasy football tools to help you win your league.
                 </p>
                 <p class="mt-2 md:mt-4">
                   <span
@@ -172,7 +172,7 @@
                       mr-3
                       strikethrough-diagonal
                     "
-                    >$<span class="subscription-plan__dollars">8</span>
+                    >$<span class="subscription-plan__dollars">5</span>
                     <span
                       class="
                         align-super
@@ -185,7 +185,7 @@
                     ></span
                   >
                   <span class="text-2xl font-normal text-gray-800 md:text-4xl"
-                    >$<span class="subscription-plan__dollars">7</span>
+                    >$<span class="subscription-plan__dollars">4</span>
                     <span
                       class="
                         align-super
@@ -194,7 +194,7 @@
                         text-gray-600
                         md:text-sm
                       "
-                      >.<span class="subscription-plan__cents">19</span></span
+                      >.<span class="subscription-plan__cents">79</span></span
                     ></span
                   >
                   <span
@@ -221,7 +221,7 @@
                     xl:text-base
                   "
                 >
-                  Get NFL + DFS
+                  Get NFL
                 </a>
               </div>
             </div>
@@ -240,10 +240,10 @@
             >
               <div class="px-4 pt-4 pb-4 md:px-6 md:pt-6">
                 <h2 class="text-xl font-normal text-gray-800 xl:text-2xl">
-                  All Sports + DFS
+                  All Sports
                 </h2>
                 <p class="mt-4 text-sm text-gray-500">
-                  Get all tools for every sport including our DFS optimizer.
+                  Get all tools for each sport to help you every season.
                 </p>
                 <p class="mt-2 md:mt-4">
                   <span
@@ -255,7 +255,7 @@
                       mr-3
                       strikethrough-diagonal
                     "
-                    >$<span class="subscription-plan__dollars">11</span>
+                    >$<span class="subscription-plan__dollars">7</span>
                     <span
                       class="
                         align-super
@@ -268,7 +268,7 @@
                     ></span
                   >
                   <span class="text-2xl font-normal text-gray-800 md:text-4xl"
-                    >$<span class="subscription-plan__dollars">9</span>
+                    >$<span class="subscription-plan__dollars">6</span>
                     <span
                       class="
                         align-super
@@ -277,7 +277,7 @@
                         text-gray-600
                         md:text-sm
                       "
-                      >.<span class="subscription-plan__cents">59</span></span
+                      >.<span class="subscription-plan__cents">39</span></span
                     ></span
                   >
                   <span
@@ -304,7 +304,7 @@
                     xl:text-base
                   "
                 >
-                  Get All Sports + DFS
+                  Get All Sports
                 </a>
               </div>
             </div>
