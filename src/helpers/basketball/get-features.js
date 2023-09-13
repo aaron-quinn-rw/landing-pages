@@ -22,7 +22,7 @@ export default function getBasketballFeatures() {
       },
       {
         name: 'Projections',
-        desc: 'We have projected stats for every player you care about.',
+        desc: 'We have projected stats for every player you care about.', 
       },
       {
         name: 'Advice & Draft Strategy',
