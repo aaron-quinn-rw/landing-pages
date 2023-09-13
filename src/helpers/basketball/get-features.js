@@ -58,7 +58,7 @@ export default function getBasketballFeatures() {
       },
       {
         name: 'Stats',
-        desc: 'CHeck out our sortable NBA stats that make it easy to prep for your draft.',
+        desc: 'Check out our sortable NBA stats that make it easy to prep for your draft.',
       },
       {
         name: 'Articles',
