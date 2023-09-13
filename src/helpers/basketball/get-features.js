@@ -22,7 +22,7 @@ export default function getBasketballFeatures() {
       },
       {
         name: 'Projections',
-        desc: 'We have projected stats for every player you care about.',
+        desc: 'We have projected stats for every player you care about.', 
       },
       {
         name: 'Advice & Draft Strategy',
@@ -58,7 +58,7 @@ export default function getBasketballFeatures() {
       },
       {
         name: 'Stats',
-        desc: 'CHeck out our sortable NBA stats that make it easy to prep for your draft.',
+        desc: 'Check out our sortable NBA stats that make it easy to prep for your draft.',
       },
       {
         name: 'Articles',
