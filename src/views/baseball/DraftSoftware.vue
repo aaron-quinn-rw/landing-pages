@@ -21,7 +21,7 @@ import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
 const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `${new Date().getFullYear()} Fantasy Football Draft Software`,
+    heading: `2024 Fantasy Football Draft Software`,
     subhead: 'Track your entire draft',
     copy: 'Research players, dive into stats, check depth charts and more – everything is right at your fingertips.',
     button: 'Get Our Draft Software',

@@ -1,10 +1,8 @@
 export default function getDefaultBaseballImage() {
   const possibleImages = [
-    'leubf9flpaxusinegtby', // Guerrero
-    'w8z10tg4olqhtxwctj7b', // Ohtani
-    'ctolarswf5vl7ctkbty6', // Acuna
-    'z67yk0vp30bgvhxbbybr', // Tatis
-    'e8wdhhqlwblohqnsfbtz', // Soto
+    'bb4ovozni7ehu4fzjrx2', // Betts
+    'jqlgdlir0xeffiuxc8yu', // Strider
+    'c6glgtwxgj2yv6clnqro' // Seager
   ];
 
   const defaultImageID =
