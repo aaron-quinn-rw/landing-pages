@@ -21,7 +21,7 @@ import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
 const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `${new Date().getFullYear()} Fantasy Baseball News & Rankings`,
+    heading: `2024 Fantasy Baseball News & Rankings`,
     subhead:
       'Get the news that matters for your league without spending time hunting it down yourself.',
     copy: 'Get a real advantage over the rest of your league with our 24/7 news updates. Plus, rankings and advice customized for your league.',

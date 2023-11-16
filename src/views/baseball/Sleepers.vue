@@ -21,7 +21,7 @@ import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
 const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `${new Date().getFullYear()} Fantasy Baseball Sleepers`,
+    heading: `2024 Fantasy Baseball Sleepers`,
     subhead: 'Outsmart the rest of your league with our draft tools and advice',
     copy: "We have all the best fantasy baseball tools collected together in one place. It's the easiest way to become a champion.",
     button: 'Find The Best Sleepers',

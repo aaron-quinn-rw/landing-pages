@@ -21,7 +21,7 @@ import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
 const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `${new Date().getFullYear()} Fantasy Baseball Draft Kit`,
+    heading: `2024 Fantasy Baseball Draft Kit`,
     subhead: 'Everything You Need To Win Your League',
     copy: "We have all the best fantasy baseball tools collected together in one place. It's the easiest way to become a champion.",
     button: 'Get Our Draft Kit Now',

@@ -21,7 +21,7 @@
   
   const { draftKit, feature } = customizeBaseballPage({
     feature: {
-      heading: `${new Date().getFullYear()} Fantasy Baseball DFS Tool Kit`,
+      heading: `2024 Fantasy Baseball DFS Tool Kit`,
       subhead: 'The Assistance You Need To Win More DFS Contests',
       copy: "We have all the best daily fantasy baseball tools collected together in one place, including our enhanced lineup optimizer.",
       button: 'Get our DFS Tool Kit',

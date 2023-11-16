@@ -21,7 +21,7 @@ import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
 const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `${new Date().getFullYear()} Fantasy Baseball Cheat Sheet`,
+    heading: `2024 Fantasy Baseball Cheat Sheet`,
     subhead: 'Customized to Fit Your Exact League',
     copy: 'Get a real advantage over the rest of your league with our customized rankings.',
     button: 'Get Your Custom Cheat Sheet',
