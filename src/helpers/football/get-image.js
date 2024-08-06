@@ -1,11 +1,11 @@
 export default function getDefaultFootballImage() {
   const possibleImages = [
-    'z0vxnh10cwpwycrgcpjw', // Christian Mccaffrey
-    'uji4uz4bcgtauzpuiclv', // Dalvin Cook
-    'piogze78cdi3nt6jzf39', // Saquon Barkley
-    'c2dxjuoz9ygh43yemk7b', // Derrick Henry
-    'agzrnmpedmuerg2gwefv', // Alvin Kamara
-    'qznd6al44tvmodnta57p', // Ekeziel Elliot
+    'mv45bcb8zjh4vjnwwjlk', // Christian Mccaffrey
+    'nvmzzrfw73cioxmsrddg', // Bijan Robinson
+    'lcqv7clatkkaxz69d8fq', // CeeDee Lamb
+    'th4nlbooobuvrjj7o7g7', // Ja'Marr Chase
+    'jt1dd1ndn2i6j0c6algt', // Amon-Ra St. Brown
+    'qmtyrjrt5elclr4tb2fg', // Breece Hall
     'fflfjv0qsdeny1l9jb8x', // Patrick Mahomes
   ];
 
