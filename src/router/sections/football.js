@@ -93,4 +93,9 @@ export default [
     name: 'Fantasy Football Tips & Tricks',
     component: () => import('@/views/football/Tips.vue'),
   },
+  {
+    path: '/football/playoffs',
+    name: 'Fantasy Football Playoffs',
+    component: () => import('@/views/football/Playoffs.vue'),
+  }
 ];
