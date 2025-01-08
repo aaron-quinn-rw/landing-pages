@@ -21,7 +21,7 @@ import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
 const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `2024 Fantasy Baseball Rankings`,
+    heading: `2025 Fantasy Baseball Rankings`,
     subhead: 'Customized to Fit Your Exact League',
     copy: "Don't settle for cookie-cutter rankings. Get a real advantage over the rest of your league with our customized rankings.",
     button: 'Get Custom Rankings Now',

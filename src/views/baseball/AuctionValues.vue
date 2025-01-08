@@ -21,7 +21,7 @@ import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
 const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `2024 Fantasy Baseball Auction Values`,
+    heading: `2025 Fantasy Baseball Auction Values`,
     subhead: 'Customized to Fit Your Exact League',
     copy: 'Auction drafts can be a real challenge. Get an advantage over the rest of your league with our customized auction values.',
     button: 'Make All The Right Bids',

@@ -21,7 +21,7 @@ import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
 const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `2024 Fantasy Baseball Mock Draft Simulator`,
+    heading: `2025 Fantasy Baseball Mock Draft Simulator`,
     subhead:
       'Test any draft strategy. Draft from every slot. Customize it all.',
     copy: "Use our mock draft simulator to prepare for your draft. It's the most entertaining way to battle test your draft strategy.",

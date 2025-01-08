@@ -21,10 +21,10 @@ import customizeBaseballPage from '@/helpers/baseball/customize-page';
 
 const { draftKit, feature } = customizeBaseballPage({
   feature: {
-    heading: `2024 Fantasy Baseball Projections`,
+    heading: `2025 Fantasy Baseball Projections`,
     subhead: 'Outsmart the rest of your league with our draft tools and advice',
     copy: "We have all the best fantasy baseball tools collected together in one place. It's the easiest way to become a champion.",
-    button: `Get Our 2024 Projections`,
+    button: `Get Our 2025 Projections`,
   },
 });
 </script>
