@@ -5,7 +5,10 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        body: ['Open Sans', 'Arial', 'sans-serif'],
+        body: ['Cosmica', 'Arial', 'sans-serif'],
+        integral: ['Integral', 'Impact', 'Arial Black', 'Segoe UI Bold', 'sans-serif'],
+        molitor: ['Molitor', 'Georgia', 'Baskerville', 'Times New Roman', 'serif'],
+        cosmica: ['Cosmica', 'Avenir', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif'],
       },
       fontSize: {
         headline: ['2.8rem', '3.08rem'],
@@ -15,11 +18,13 @@ module.exports = {
         'rw-highlight-light': '#D1E6FF',
         'rw-highlight': '#B8D8FF',
         'rw-highlight-dark': '#94C4FF',
-        'rw-dark': 'hsl(211deg 49% 14%)',
+        'rw-dark': '#000000',
         'rw-dark-alt': 'hsl(211deg 49% 18%)',
         'rw-action': '#126cd3',
         'rw-action-hover': '#0e54a4',
         'rw-yellow': '#faeb27',
+        'rw-purple': '#a021fe',
+        'rw-purple-hover': '#7217B4',
       },
     },
   },

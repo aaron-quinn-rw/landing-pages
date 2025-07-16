@@ -31,7 +31,7 @@ export default [
   {
     path: '/football/draft-kit',
     name: 'Fantasy Football Draft Kit',
-    component: () => import('@/views/football/DraftKit.vue'),
+    component: () => import('@/views/football/DraftKitNew.vue'),
   },
   {
     path: '/football/football-draft-kit',
